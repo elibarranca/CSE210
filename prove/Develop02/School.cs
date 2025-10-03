@@ -7,14 +7,14 @@ public class School
 
     public string _name;
 
-    public List<Students> _students;
+    public List<Students> _students { get; set; }
     {
         //do something
     }
 
-    public void ShowDetails()
-    {
-        Console.WriteLine($"School: (name), Students: {numStudents}, Teachers: {_numteachers}
-    }
+public void ShowDetails()
+{
+    Console.WriteLine($"School: {_name}, Students: {_numStudents}, Teachers: {_numteachers}");
+}
 
 }

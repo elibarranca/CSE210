@@ -67,7 +67,6 @@ public class Journal
         }
     }//End of StartJournal
 
-
     public void DisplayEntries()
     {
         foreach (Entry _entry in _entries)

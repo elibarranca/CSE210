@@ -24,3 +24,12 @@ class Program
         myResume.Display();
     }
 }
+
+/*________________________________________________________________________________________________________________________________
+
+class Program
+
+static void Main(string[] args)
+{
+        //Console.WriteLine("Hello Develop03 World)
+}

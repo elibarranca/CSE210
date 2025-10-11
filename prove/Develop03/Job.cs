@@ -14,3 +14,11 @@ public class Job
         Console.WriteLine($"Job Title: {_jobTitle}, Company: {_company}, Start Year: {_startYear}, End Year: {_endYear}");
     }
 }
+/*________________________________________________________________________________________________________________________________
+
+public class Resume
+{
+
+    public List<Job> _job;
+    public string
+}

@@ -1,6 +1,14 @@
 using System;
 public class Job
 {
+    private string_startDate;
+
+    private string_title;
+
+    private string_company;
+    
+    public Job
+
     public string _jobTitle;
 
     public string _company;

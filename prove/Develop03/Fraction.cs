@@ -10,14 +10,14 @@ public class Fraction
 public Fraction (int num)
 {
     _numerator = num;
-    _denomitnator = 1;
+    _denominator = 1;
 }
 
 public Fraction(int num int den)
     _numerator = num;
-    if (den != 0)
+if (den != 0)
 {
-    _denomitnator =num;
+    _denominator = num;
 }
 else
 {

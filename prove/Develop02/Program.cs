@@ -6,7 +6,6 @@ class Program
     {
         Journal journal = new Journal();
         journal.StartJournal();
-
     }
 }
 

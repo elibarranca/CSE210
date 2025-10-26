@@ -7,10 +7,8 @@ public class Journal
 {
 
     public List<Entry> _entries = new List<Entry>();
-    string menuresponse;
-    string filePath;
 
-    public void StartJournal()
+    public void AddEntry(string prompt, string response)
     {
         Console.WriteLine("");
         Console.WriteLine("Welcome to your journal, please choose one of the options using the number. ");

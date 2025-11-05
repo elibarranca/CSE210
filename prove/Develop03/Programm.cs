@@ -1,13 +1,5 @@
 using System;
-using System.ComponentModel.DataAnnotations;
 
-class Program
-{
-    DisplayScripture():void
-}
-
-
-/*
 class Program
 {
     static void Main(string[] args)
@@ -31,4 +23,13 @@ class Program
 
         myResume.Display();
     }
-}*/
+}
+
+/*________________________________________________________________________________________________________________________________
+
+class Program
+
+static void Main(string[] args)
+{
+        //Console.WriteLine("Hello Develop03 World)
+}

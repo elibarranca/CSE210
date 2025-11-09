@@ -1,6 +1,6 @@
 using System;
 
-class Program
+class Programm
 {
     static void Main(string[] args)
     {
@@ -23,13 +23,4 @@ class Program
 
         myResume.Display();
     }
-}
-
-/*________________________________________________________________________________________________________________________________
-
-class Program
-
-static void Main(string[] args)
-{
-        //Console.WriteLine("Hello Develop03 World)
 }

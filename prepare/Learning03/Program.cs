@@ -1,11 +1,13 @@
-using System;
+using System.Runtime.InteropServices;
+using registration.courses
 
 class Program
 {
     static void Main(string[] args)
     {
         //Console.WriteLine("Hello Learning03 World!");
-        Schedule student = new Student("Gary", "1234");
+        Student student = new Student("Gary", "1234");
+        Person instructor = new Instructor("Bob");
         Schedule schedule = new Schedule(student);
 
 

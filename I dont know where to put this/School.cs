@@ -8,9 +8,9 @@ public class School
     public string _name;
 
     public List<Students> _students { get; set; }
-    {
-        //do something
-    }
+
+    //do something
+}
 
 public void ShowDetails()
 {
